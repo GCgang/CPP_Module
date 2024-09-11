@@ -84,6 +84,4 @@ C++, 객체지향 프로그래밍
 
 ## 🔗 Reference
 
-### 코딩컨벤션
-
 [POCU 코딩컨벤션](https://docs.popekim.com/ko/coding-standards/pocu-cpp)
